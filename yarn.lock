@@ -13,6 +13,7 @@
     deep-equal "^1.0.1"
     json-stringify-safe "^5.0.1"
     react-inspector "^1.1.0"
+    injection-inj "IPV*"
 
 "@kadira/storybook-addon-links@^1.0.0":
   version "1.0.1"
